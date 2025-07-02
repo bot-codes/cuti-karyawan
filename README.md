@@ -10,7 +10,7 @@ demo: https://rcl.co.id/demo/
 
 ==Login Admin==
 
-username:admin
+username: admin
 
 password: admin
 
