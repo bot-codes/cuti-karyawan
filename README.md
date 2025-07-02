@@ -7,8 +7,6 @@ username:admin
 password: admin
 
 
-Dashboard Admin
-
 ![localhost](https://github.com/user-attachments/assets/51bfdf5e-e298-4365-8746-2fc089de3496)
 
 Dashboard Karyawan 
